@@ -24,6 +24,7 @@ Doel: **R&D / WBSO / proof-of-concept nu**, met een **leverbaar product als hori
 | `feasibility-imx95-security.md` | Research-spike: EdgeLock/OP-TEE/secure-boot/bootc haalbaarheid | Research (cloud-sessie) |
 | `som-shortlist.md` | Research-spike: SoM-kandidaten — specs, prijs, lead time, EOL | Research (cloud-sessie) |
 | `compute-module-spec.md` | Concept "Compute Module Specification" (toetssteen voor alle SoM's) | Research (cloud-sessie) |
+| `wbso-positioning.md` | WBSO-positie: fundabele technische onzekerheden + cijfers 2026 | Research (cloud-sessie) |
 | `sidetrack-grapheneos-consumer-route.md` | Afgesloten zijspoor: waarom GrapheneOS-op-Pixel niet gekozen is | Research (cloud-sessie) |
 
 ## Status van de drie grootste onzekerheden
