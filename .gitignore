@@ -1,0 +1,13 @@
+# Credentials — never commit (CumClave rule, cf. finding M-16)
+.env
+.env.*
+secrets/
+cloudflare.ini
+*.pem
+*.key
+
+# OS / editor noise
+.DS_Store
+*.swp
+.idea/
+.vscode/
