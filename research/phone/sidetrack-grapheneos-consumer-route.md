@@ -1,10 +1,14 @@
-# CumClave Smartphone — verkennend onderzoek
+# CumClave Smartphone — GrapheneOS-consumentenroute (AFGESLOTEN ZIJSPOOR)
 
-> Status: **verkennende scan** (exploratory) — **project OP HOLD per 2026-10-12.**
-> GrapheneOS/Smartphone staat geparkeerd; Headwind MDM is van Server02 verwijderd.
-> Dit document is dus referentiemateriaal voor later, geen actieplan voor nu.
-> De MDM-enrollment-aanbevelingen (§2, §6-4) zijn achterhaald zolang er geen MDM draait.
-> Zelf-gedraaide eerste research-pass, geen volle parallelle deep-research-run.
+> Status: **afgesloten zijspoor per 2026-10-12.** Dit rapport onderzocht de
+> *consumentenroute*: GrapheneOS op een bestaand Pixel-toestel, MDM-beheerd.
+> Die route is **niet gekozen**. Het CumClave Phone-project gaat de
+> **custom-hardware/platform-route** (eigen SoM-carrier, i.MX95 + EdgeLock,
+> CumClave OS op Fedora bootc) — zie `README.md` en de architectuurdocs in deze map.
+> Headwind MDM is bovendien van Server02 verwijderd, dus de MDM-stukken hieronder
+> zijn dubbel achterhaald. Bewaard als vergelijkingsmateriaal (waarom niet deze route)
+> en voor de concurrentie-/EU-RED-bevindingen, die op de fabrikantroute juist
+> relevánter worden.
 
 ## 0. Wat is het project (werkdefinitie)
 
