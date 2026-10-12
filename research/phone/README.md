@@ -37,6 +37,6 @@ Doel: **R&D / WBSO / proof-of-concept nu**, met een **leverbaar product als hori
 ## Werkafspraak
 
 Dit dossier leeft in deze (GitHub-scratch) repo omdat het pure research/documentatie is.
-De canonieke bron voor het *project* blijft de self-hosted GitLab; cross-agent acties
+De canonieke bron voor het *project* blijft de private self-hosted omgeving; cross-agent acties
 (bv. richting Fedora-agent voor CumClave OS, of hardware-inkoop) lopen via de Orchestrator
 als taakbestand, niet direct vanuit dit dossier.

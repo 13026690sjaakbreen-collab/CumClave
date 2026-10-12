@@ -4,17 +4,14 @@
 
 ## Canonical source
 
-The authoritative source for all CumClave work lives in the self-hosted
-GitLab instance, reachable over Tailscale only:
-
-- **GitLab:** `git.cumclave.cloud` (self-hosted GitLab CE)
-- **Group:** `cumclave-cloud` (private)
+The authoritative source for all CumClave work lives in a private,
+self-hosted environment reachable over the internal network only.
 
 This GitHub repository is **not** the source of truth. It exists as a
 placeholder / scratch space for self-contained, code-only work done from
 cloud Claude Code sessions (documentation, prototypes, throwaway sandboxes).
 Nothing here should be treated as canonical, and infrastructure work — which
-requires homelab and Tailscale access — does not belong here.
+requires internal network access — does not belong here.
 
 ## Do not commit secrets
 
