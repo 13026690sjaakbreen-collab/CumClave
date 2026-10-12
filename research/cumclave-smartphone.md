@@ -1,8 +1,10 @@
 # CumClave Smartphone — verkennend onderzoek
 
-> Status: **verkennende scan** (exploratory). Zelf-gedraaide eerste research-pass,
-> geen volle parallelle deep-research-run. Bedoeld om richting te bepalen, niet om
-> op te bouwen. Datum: 2026-10-12.
+> Status: **verkennende scan** (exploratory) — **project OP HOLD per 2026-10-12.**
+> GrapheneOS/Smartphone staat geparkeerd; Headwind MDM is van Server02 verwijderd.
+> Dit document is dus referentiemateriaal voor later, geen actieplan voor nu.
+> De MDM-enrollment-aanbevelingen (§2, §6-4) zijn achterhaald zolang er geen MDM draait.
+> Zelf-gedraaide eerste research-pass, geen volle parallelle deep-research-run.
 
 ## 0. Wat is het project (werkdefinitie)
 
